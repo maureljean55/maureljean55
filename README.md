@@ -1,55 +1,101 @@
-# Bonjour, je suis Jean Maurel 👋
+<div align="center">
 
-Étudiant en **intelligence artificielle à l'ECE Paris**, je me destine au métier de **Data Analyst**.
-En parallèle, je conçois et je déploie des applications web et mobiles complètes, de la base de données à l'interface.
+# N'cho Jean Maurel Monne
 
-Ce qui m'intéresse : transformer des données en décisions, et construire les outils qui les collectent proprement.
+**Étudiant en intelligence artificielle à l'ECE Paris**<br>
+Futur Data Analyst · Concepteur d'applications web et mobiles
 
-🔎 **Je cherche un stage ou une alternance** en data, en IA ou en développement, en Île-de-France ou ailleurs en France.
+![Recherche](https://img.shields.io/badge/Recherche-Stage%20ou%20alternance-1f6feb?style=flat-square)
+![Domaines](https://img.shields.io/badge/Domaines-Data%20%C2%B7%20IA%20%C2%B7%20D%C3%A9veloppement-0e8a5f?style=flat-square)
+![Mobilité](https://img.shields.io/badge/Mobilit%C3%A9-%C3%8Ele--de--France%20et%20toute%20la%20France-6f42c1?style=flat-square)
+
+</div>
 
 ---
 
-## 🧰 Compétences
+## À propos
 
-| Domaine | Outils |
-|---|---|
+Actuellement en formation en intelligence artificielle à l'ECE Paris, j'oriente mon parcours vers le métier de **Data Analyst**. Je suis convaincu que la valeur d'une donnée tient autant à la rigueur de sa collecte qu'à la pertinence de son analyse.
+
+C'est pourquoi je m'attache à maîtriser l'ensemble de la chaîne : la modélisation des bases de données, la collecte et la préparation des données, puis leur exploitation au service de décisions concrètes. En parallèle, je conçois et déploie des applications web et mobiles complètes, ce qui me permet d'appréhender les besoins des utilisateurs comme les contraintes techniques d'un produit.
+
+> **Je recherche un stage ou une alternance** dans les domaines de la data, de l'intelligence artificielle ou du développement, en Île-de-France ou partout en France.
+
+---
+
+## Compétences techniques
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,tailwind,nodejs,postgres,sqlite,mongodb,supabase,docker,vercel,git,github&perline=9" alt="Technologies maîtrisées" />
+</p>
+
+| Domaine | Compétences |
+|:--|:--|
 | **Langages** | Python, SQL, TypeScript, JavaScript, HTML, CSS |
-| **Données** | PostgreSQL, SQLite, MongoDB, modélisation de bases, requêtes et fonctions SQL, index, collecte et préparation de données (scraping, export CSV), pipelines de données |
-| **IA** | Modèles de langage (Gemini, Llama 3.3 via Groq), prompt engineering, assistants conversationnels, développement assisté par IA (Claude Code) |
-| **Web** | React, Next.js (App Router, rendu côté serveur), Tailwind CSS, applications web progressives (service worker, mode hors ligne), notifications push, temps réel, QR codes, design responsive, internationalisation |
-| **Mobile** | React Native, Expo |
-| **Back-end** | Node.js, API REST (routes Next.js), middleware, authentification (Supabase Auth, OAuth, JWT, bcrypt), sécurité par ligne (RLS), envoi d'e-mails (Nodemailer), limitation de requêtes |
-| **Cloud & outils** | Supabase (PostgreSQL managé, Auth, Storage, Realtime), Vercel, Docker, API Google Gemini, Groq, Git & GitHub, ESLint |
-| **En apprentissage** (formation IA à l'ECE) | pandas, NumPy, Matplotlib, scikit-learn, Jupyter, statistiques, Power BI |
-
-**Ce que j'apporte :** je mène un projet de bout en bout, de la conception de la base de données jusqu'à la mise en ligne, et j'ai déjà livré un outil pour un vrai client.
+| **Données** | PostgreSQL, SQLite, MongoDB · modélisation de bases de données · requêtes, fonctions et index SQL · collecte et préparation de données (scraping, export CSV) · pipelines de données |
+| **Intelligence artificielle** | Intégration de modèles de langage (Gemini, Llama 3.3 via Groq) · ingénierie de prompts · assistants conversationnels · développement assisté par IA |
+| **Développement web** | React, Next.js (App Router, rendu côté serveur), Tailwind CSS · applications web progressives · notifications push · temps réel · conception adaptative · internationalisation |
+| **Développement mobile** | React Native, Expo |
+| **Back-end** | Node.js · API REST · middleware · authentification (Supabase Auth, OAuth, JWT, bcrypt) · sécurité par ligne (RLS) · envoi d'e-mails · limitation de requêtes |
+| **Cloud et outils** | Supabase (PostgreSQL, Auth, Storage, Realtime), Vercel, Docker, Git, GitHub, ESLint |
+| **En cours d'approfondissement** | pandas, NumPy, Matplotlib, scikit-learn, Jupyter, statistiques, Power BI |
 
 ---
 
-## 🚀 Projets
+## Réalisations
 
-### [Objely](https://github.com/maureljean55/objely) · plateforme d'objets perdus et trouvés
-Une application qui met en relation les personnes qui perdent un objet et celles qui le trouvent.
-- **Rapprochement automatique** des déclarations par un score calculé directement en SQL (catégorie, couleurs, marque, lieu, date)
-- **80 migrations** PostgreSQL, sécurité par ligne, index dédiés au rapprochement
-- Messagerie en temps réel, vérification de propriété, rendez-vous de restitution, notifications push
-- Assistant de support basé sur Gemini, avec limitation du nombre de requêtes
+### Objely · plateforme de restitution d'objets perdus
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini` · [Démo](https://objely.vercel.app)
+Objely met en relation les personnes ayant perdu un objet et celles qui l'ont retrouvé, puis accompagne la restitution jusqu'à son terme.
 
-L'écosystème Objely compte aussi :
-- [**Objely Admin**](https://github.com/maureljean55/objely-admin) : portail de modération (indicateurs en temps réel, utilisateurs, rapprochements détectés, signalements) · [Démo](https://objely-admi.vercel.app)
-- [**Objely École**](https://github.com/maureljean55/objely-ecole) : borne tactile pour les lycées et universités, couplée par code à usage unique · [Démo](https://objely-ecole.vercel.app)
-- [**Objely École Admin**](https://github.com/maureljean55/objely-admin-ecole) : espace de gestion des objets pour la vie scolaire
+- **Rapprochement automatique** des déclarations grâce à un score de correspondance calculé directement en SQL (catégorie, couleurs, marque, lieu et date)
+- **Base de données robuste** : 80 migrations PostgreSQL, sécurité par ligne et index dédiés aux recherches de correspondance
+- Messagerie en temps réel, vérification de la propriété, planification des restitutions et notifications push
+- Assistant de support fondé sur Gemini, doté d'une limitation des requêtes afin de maîtriser les coûts
 
-### [Devis Maker](https://github.com/maureljean55/devis-maker) · devis et prospection assistée par IA
-Outil réalisé pour une menuiserie à Abidjan : création de devis, et chaîne de prospection automatisée.
-- **Collecte de données** (recherche Google) → stockage **SQLite** → messages personnalisés générés par **Llama 3.3** → export **CSV** et liens WhatsApp
-- Tableau de bord, suivi des prospects, envoi d'e-mails
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-`Next.js` `TypeScript` `Python` `SQLite` `Groq` · [Démo](https://devis-maker-njm9.vercel.app)
+[Code source](https://github.com/maureljean55/objely) · [Démonstration](https://objely.vercel.app)
+
+L'écosystème Objely se compose également de trois applications complémentaires :
+
+| Application | Rôle | Liens |
+|:--|:--|:--|
+| **Objely Admin** | Portail de modération : indicateurs en temps réel, gestion des utilisateurs, rapprochements détectés, signalements | [Code](https://github.com/maureljean55/objely-admin) · [Démo](https://objely-admi.vercel.app) |
+| **Objely École** | Borne tactile destinée aux lycées et aux universités, couplée par un code à usage unique | [Code](https://github.com/maureljean55/objely-ecole) · [Démo](https://objely-ecole.vercel.app) |
+| **Objely École Admin** | Espace de gestion des objets trouvés à destination de la vie scolaire | [Code](https://github.com/maureljean55/objely-admin-ecole) |
+
+### Devis Maker · devis et prospection commerciale assistée par IA
+
+Outil conçu pour une menuiserie établie à Abidjan, couvrant la création de devis et l'automatisation de la prospection.
+
+- **Chaîne de traitement des données** : collecte par recherche Google, stockage SQLite, rédaction de messages personnalisés par Llama 3.3, puis export CSV et génération de liens WhatsApp
+- Tableau de bord, suivi des prospects et envoi d'e-mails
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+[Code source](https://github.com/maureljean55/devis-maker) · [Démonstration](https://devis-maker-njm9.vercel.app)
 
 ---
 
-## 📊 Ce que je travaille en ce moment
-Analyse et visualisation de données avec Python et SQL, en lien avec ma formation en IA.
+## Ce que j'apporte
+
+- **Une vision d'ensemble** : je conduis un projet de bout en bout, de la conception de la base de données jusqu'à la mise en production.
+- **Une première expérience client** : j'ai livré un outil opérationnel répondant aux besoins concrets d'une entreprise.
+- **Une exigence de qualité** : sécurité des données, maîtrise des coûts et documentation soignée font partie intégrante de ma démarche.
+
+---
+
+<div align="center">
+
+*Merci de votre visite. Je reste à votre disposition pour échanger sur une opportunité de stage ou d'alternance.*
+
+</div>
