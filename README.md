@@ -3,10 +3,10 @@
 # N'cho Jean Maurel Monne
 
 **Étudiant en intelligence artificielle à l'ECE Paris**<br>
-Futur Data Analyst · Concepteur d'applications web et mobiles
+Futur Data Scientist · Concepteur d'applications web et mobiles
 
 ![Recherche](https://img.shields.io/badge/Recherche-Stage%20ou%20alternance-1f6feb?style=flat-square)
-![Poste visé](https://img.shields.io/badge/Poste%20vis%C3%A9-Data%20Analyst-0e8a5f?style=flat-square)
+![Poste visé](https://img.shields.io/badge/Poste%20vis%C3%A9-Data%20Scientist-0e8a5f?style=flat-square)
 ![Mobilité](https://img.shields.io/badge/Mobilit%C3%A9-%C3%8Ele--de--France%20et%20toute%20la%20France-6f42c1?style=flat-square)
 
 </div>
@@ -15,11 +15,11 @@ Futur Data Analyst · Concepteur d'applications web et mobiles
 
 ## À propos
 
-Actuellement en formation en intelligence artificielle à l'ECE Paris, j'oriente mon parcours vers le métier de **Data Analyst**. Je suis convaincu que la valeur d'une donnée tient autant à la rigueur de sa collecte qu'à la pertinence de son analyse.
+Actuellement en formation en intelligence artificielle à l'ECE Paris, j'oriente mon parcours vers le métier de **Data Scientist**. Je suis convaincu que la valeur d'un modèle tient autant à la rigueur de la collecte des données qu'à la pertinence de leur analyse.
 
-C'est pourquoi je m'attache à maîtriser l'ensemble de la chaîne : la modélisation des bases de données, la collecte et la préparation des données, puis leur exploitation au service de décisions concrètes. En parallèle, je conçois et déploie des applications web et mobiles complètes, ce qui me permet d'appréhender les besoins des utilisateurs comme les contraintes techniques d'un produit.
+C'est pourquoi je m'attache à maîtriser l'ensemble de la chaîne : la modélisation des bases de données, la collecte et la préparation des données, l'apprentissage automatique, puis l'exploitation des résultats au service de décisions concrètes. En parallèle, je conçois et déploie des applications web et mobiles complètes, ce qui me permet d'appréhender les besoins des utilisateurs comme les contraintes techniques d'un produit.
 
-> **Je recherche un stage ou une alternance en tant que Data Analyst**, en Île-de-France ou partout en France.
+> **Je recherche un stage ou une alternance en tant que Data Scientist**, en Île-de-France ou partout en France.
 
 ---
 
@@ -96,6 +96,6 @@ Outil conçu pour une menuiserie établie à Abidjan, couvrant la création de d
 
 <div align="center">
 
-*Merci de votre visite. Je reste à votre disposition pour échanger sur une opportunité de stage ou d'alternance en tant que Data Analyst.*
+*Merci de votre visite. Je reste à votre disposition pour échanger sur une opportunité de stage ou d'alternance en tant que Data Scientist.*
 
 </div>
