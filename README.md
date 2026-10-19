@@ -13,11 +13,15 @@ Ce qui m'intéresse : transformer des données en décisions, et construire les 
 
 | Domaine | Outils |
 |---|---|
-| **Données** | SQL (PostgreSQL), modélisation de bases, fonctions et index SQL, sécurité par ligne (RLS), Python |
-| **IA** | Intégration de modèles de langage (Gemini, Llama 3.3 via Groq), assistants conversationnels, génération de texte |
-| **Web** | TypeScript, React, Next.js, Tailwind CSS |
+| **Langages** | Python, SQL, TypeScript, JavaScript |
+| **Données** | PostgreSQL, SQLite, modélisation de bases, requêtes et fonctions SQL, index, collecte et préparation de données (scraping, export CSV), pipelines de données |
+| **IA** | Modèles de langage (Gemini, Llama 3.3 via Groq), prompt engineering, assistants conversationnels, développement assisté par IA (Claude Code) |
+| **Web** | React, Next.js, Tailwind CSS, applications web progressives (PWA), notifications push |
 | **Mobile** | React Native, Expo |
-| **Back-end & cloud** | Supabase (auth, stockage, temps réel), API REST, Vercel, Git |
+| **Back-end & cloud** | Supabase (auth, stockage, temps réel), API REST, authentification JWT, sécurité par ligne (RLS), Vercel, Git & GitHub |
+| **En apprentissage** (formation IA à l'ECE) | pandas, NumPy, Matplotlib, scikit-learn, Jupyter, statistiques, Power BI |
+
+**Ce que j'apporte :** je mène un projet de bout en bout, de la conception de la base de données jusqu'à la mise en ligne, et j'ai déjà livré un outil pour un vrai client.
 
 ---
 
