@@ -14,12 +14,12 @@ Ce qui m'intéresse : transformer des données en décisions, et construire les 
 | Domaine | Outils |
 |---|---|
 | **Langages** | Python, SQL, TypeScript, JavaScript, HTML, CSS |
-| **Données** | PostgreSQL, SQLite, modélisation de bases, requêtes et fonctions SQL, index, collecte et préparation de données (scraping, export CSV), pipelines de données |
+| **Données** | PostgreSQL, SQLite, MongoDB, modélisation de bases, requêtes et fonctions SQL, index, collecte et préparation de données (scraping, export CSV), pipelines de données |
 | **IA** | Modèles de langage (Gemini, Llama 3.3 via Groq), prompt engineering, assistants conversationnels, développement assisté par IA (Claude Code) |
 | **Web** | React, Next.js (App Router, rendu côté serveur), Tailwind CSS, applications web progressives (service worker, mode hors ligne), notifications push, temps réel, QR codes, design responsive, internationalisation |
 | **Mobile** | React Native, Expo |
 | **Back-end** | Node.js, API REST (routes Next.js), middleware, authentification (Supabase Auth, OAuth, JWT, bcrypt), sécurité par ligne (RLS), envoi d'e-mails (Nodemailer), limitation de requêtes |
-| **Cloud & outils** | Supabase (PostgreSQL managé, Auth, Storage, Realtime), Vercel, API Google Gemini, Groq, Git & GitHub, ESLint |
+| **Cloud & outils** | Supabase (PostgreSQL managé, Auth, Storage, Realtime), Vercel, Docker, API Google Gemini, Groq, Git & GitHub, ESLint |
 | **En apprentissage** (formation IA à l'ECE) | pandas, NumPy, Matplotlib, scikit-learn, Jupyter, statistiques, Power BI |
 
 **Ce que j'apporte :** je mène un projet de bout en bout, de la conception de la base de données jusqu'à la mise en ligne, et j'ai déjà livré un outil pour un vrai client.
